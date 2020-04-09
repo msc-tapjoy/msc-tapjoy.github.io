@@ -1,0 +1,12 @@
+{
+    "parse": "full",
+    "response_type": "in_channel",
+    "text": "https://butt.holdings",
+    "attachments":[
+        {
+            "image_url": "https://butt.holdings/hold-onto-your-butts.gif"
+        }
+    ],
+    "unfurl_media":true,
+    "unfurl_links":true
+}
