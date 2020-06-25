@@ -1,0 +1,11 @@
+{
+    "parse": "full",
+    "response_type": "in_channel",
+    "attachments":[
+        {
+            "image_url": "https://msc-tapjoy.github.io/assets/rube-goldberg-machine.gif"
+        }
+    ],
+    "unfurl_media":true,
+    "unfurl_links":true
+}
